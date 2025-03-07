@@ -1,0 +1,11 @@
+{
+    "models": [
+        {
+            "name": "deepseek-r1:14b",
+            "base_url": "http://localhost:11434",
+            "timeout": 300,
+            "max_retries": 3
+        }
+    ],
+    "default_model": "deepseek-r1:14b"
+}
